@@ -15,8 +15,8 @@ pip install imageio
 ```
 If you're unsure how to install ffmpeg on your computer, you can learn how by [clicking here](https://youtu.be/DMEP82yrs5g?si=TINIp8-D3Dklhk60).
 
-
-# Tanım
+# Türkçe kullanım rehberi
+## Tanım
 bu betikler bulunduğu klasördeki dosyaları tek tek tarayarak hedef uzantıya dönüştürür, veya yeniden adlandırır.
 
 ## Gereksinimler
